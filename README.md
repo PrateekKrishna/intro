@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrateekKrishna
-- 👀 I’m interested in C, C++, App Dev, Web Dev, AI, ML
+- 👀 I’m interested in App Dev and Web Dev
 - 🌱 I’m currently learning new languages
 - 📫 You can reach me on prateekkrishna09@gmail.com
 
